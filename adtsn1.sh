@@ -1,0 +1,1 @@
+sed -i -e 's/]/,{"peerid":"QmTZHRwxL1WLoKLsKisTwJuTNNtQWx4BweKEkd2WqLqNkp","didHash":"QmQbQn9uZ6LegjFVvbpUspsEh1X2VAUdYJToWqYuco9xE6","walletHash":"QmRBpaPKWHvboktx8B5toqahnpisGYUJBqbNiu8k5b1ni9"}]/' /home/rohit/Rubix/DATA/DataTable.json
